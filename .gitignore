@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Generated results (uncomment if outputs should not be versioned)
+# results/*.csv
+# results/*.png
+# results/*.pdf
